@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\StuartApp\StuartApp\obj\Debug\StuartApp.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\StuartApp\StuartApp\obj\Debug\StuartApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\StuartApp\StuartApp\bin\Debug\StuartApp.exe.config
+C:\Users\Ivan\source\repos\StuartApp\StuartApp\bin\Debug\StuartApp.exe
+C:\Users\Ivan\source\repos\StuartApp\StuartApp\bin\Debug\StuartApp.pdb
+C:\Users\Ivan\source\repos\StuartApp\StuartApp\obj\Debug\StuartApp.exe
+C:\Users\Ivan\source\repos\StuartApp\StuartApp\obj\Debug\StuartApp.pdb
